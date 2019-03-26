@@ -17,3 +17,6 @@ or gcloud sdk
 ## Deploy firebase cloud function
   - ```firebase deploy``` <br/> or <br/>```cd functions && npm run deploy```
 
+## Try it out
+  - Stop Preempt VM and see the log on firebase cloud functions, then look on GCP Compute engine dashboard
+  - Preempt VM is running again
